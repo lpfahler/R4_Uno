@@ -1,3 +1,7 @@
+// Lesson 1 Code for Uno R4 Course
+// Lori Pfahler
+// January 2024
+
 void setup() {
   // put your setup code here, to run once:
   pinMode(13, OUTPUT);
@@ -6,7 +10,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   digitalWrite(13, HIGH);
-  delay(16);
+  delay(1000);
   digitalWrite(13, LOW);
-  delay(16);
+  delay(1000);
 }
