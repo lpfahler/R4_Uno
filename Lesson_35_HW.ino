@@ -1,5 +1,5 @@
-// Lesson 35 Code - HW User Input of Grades and provide
-// average, min and max
+// Lesson 35 HW User Input of Grades
+// Calculate average, min and max
 // Lori Pfahler
 // September 2026
 
