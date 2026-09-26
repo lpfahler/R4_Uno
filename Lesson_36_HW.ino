@@ -4,11 +4,9 @@
 // Lori Pfahler
 // September 2026
 
-// create an int for the number of grades, total of the grades, min and max grade
+// create an int for the number of grades and total of the grades
 int numGrades;
 float total;
-float minGrade;
-float maxGrade;
 // variables for bubble sort
 int swap;
 int nPairs;
